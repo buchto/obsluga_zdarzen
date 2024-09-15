@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+h1 {
+  color: blue;
+}
+
+button {
+  background-color: gray;
+  padding: 10px;
+  cursor: pointer;
+}
+
+#d2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  color: black;
+  width: 300px;
+  height: 100px;
+  margin-top: 20px;
+}
